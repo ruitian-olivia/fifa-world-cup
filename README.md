@@ -1,2 +1,2 @@
 # fifa-world-cup
-the project of "Linux programming for Bioinformatics"
+the final project of "Linux programming for Bioinformatics"
