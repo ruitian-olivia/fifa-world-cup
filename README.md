@@ -5,7 +5,7 @@ the final project of "Linux programming for Bioinformatics"
 ## Data source
 [Kaggle Database](https://www.kaggle.com/datasets)
 ## Contributor
-* Ruitian GAO
+* Ruitian Gao
 * Xue Yang
 * Qing Ma
 * Xueyi Ma
